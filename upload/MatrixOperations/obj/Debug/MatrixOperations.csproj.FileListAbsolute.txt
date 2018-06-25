@@ -1,0 +1,6 @@
+F:\C#\TEST-180603\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.csprojResolveAssemblyReference.cache
+F:\C#\TEST-180603\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe.config
+F:\C#\TEST-180603\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.exe
+F:\C#\TEST-180603\MatrixOperations\MatrixOperations\bin\Debug\MatrixOperations.pdb
+F:\C#\TEST-180603\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.exe
+F:\C#\TEST-180603\MatrixOperations\MatrixOperations\obj\Debug\MatrixOperations.pdb
